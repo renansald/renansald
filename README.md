@@ -114,6 +114,6 @@ I'm Renan, a passionate Computer Engineer currently pursuing my degree at the Fe
 
 ## Reach Me
 
-Feel free to connect with me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renansald) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/renan-saldanha) [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-9cf)](https://portfoliorenan.azurewebsites.net)
+Feel free to connect with me on [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renansald) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/renan-saldanha) [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Portfolio-9cf)](https://portfoliorenan.azurewebsites.net)
   
 Let's collaborate and build amazing things together! 🌟
