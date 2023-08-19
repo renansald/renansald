@@ -13,7 +13,7 @@ I'm Renan, a passionate Computer Engineer currently pursuing my degree at the Fe
 
 - 🌱 I hold a degree in Computer Engineering from [Federal University of Ouro Preto](https://www.ufop.br/).
 - 💼 I enjoy working on projects involving .NET Core (C#), Java with Spring Boot and Micronaut, Terraform, Azure DevOps, Azure, and AWS.
-- 💻 My coding interests span across C#, Java, Infrstructure as Code (IaS), Typescript.
+- 💻 My coding interests span across C#, Java, Infrstructure as Code (IaC), Typescript.
 
 ## GitHub Stats
 
