@@ -27,33 +27,33 @@ I'm Renan, a passionate Computer Engineer currently pursuing my degree at the Fe
 
 - Backend
   
-  <a href="https://www.typescriptlang.org/" title="C-Sharp">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" title="C-Sharp">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C-Sharp" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Dot-Net-Core">
+  <a href="https://jakeydocs.readthedocs.io/en/latest/" title="Dot-Net-Core">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="Dot-Net_Core" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Java">
+  <a href="https://www.java.com" title="Java">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Spring-Boot">
+  <a href="https://spring.io" title="Spring-Boot">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring-Boot" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="MySQL">
+  <a href="https://www.mysql.com" title="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="My-SQL" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="MongoDB">
+  <a href="https://www.mongodb.com" title="MongoDB">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDb" width="80px" height="80px">
   </a>
 
 - Frontend
 
-  <a href="https://www.typescriptlang.org/" title="Javascript">
+  <a href="https://www.javascript.com" title="Javascript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="80px" height="80px">
   </a>
   
@@ -61,39 +61,39 @@ I'm Renan, a passionate Computer Engineer currently pursuing my degree at the Fe
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="React">
+  <a href="https://react.dev" title="React">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Tailwind">
+  <a href="https://tailwindcss.com" title="Tailwind">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="80px" height="80px">
   </a>
 
 - DevOps
   
-  <a href="https://www.typescriptlang.org/" title="Terraform">
+  <a href="https://www.terraform.io" title="Terraform">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Docker">
+  <a href="https://www.docker.com" title="Docker">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="Git">
+  <a href="https://git-scm.com" title="Git">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80px" height="80px">
   </a>
 
 - Cloud Providers
 
-  <a href="https://www.typescriptlang.org/" title="Azure">
+  <a href="https://aws.amazon.com" title="Azure">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="80px" height="80px">
   </a>
   
-  <a href="https://www.typescriptlang.org/" title="AWS">
+  <a href="https://azure.microsoft.com/en-us/get-started/azure-portal" title="AWS">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="80px" height="80px">
   </a>
 <!--![.NET Core](https://img.shields.io/badge/.NET%20Core-C%23-blue)
